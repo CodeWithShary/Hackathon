@@ -1,8 +1,6 @@
 import Image from "next/image"; 
 import nikelogo from "@/app/asset/nikelogo.png"
 import Link from "next/link";
-import Header from "@/components/header";
-import Footer from "@/components/footer";
 
 export default function JoinUs() {
   return (
@@ -102,7 +100,7 @@ export default function JoinUs() {
         </div>
             <div>
                 <p className="text-gray-400 text-[15px] mb-2 text-center">
-                By creating an account, you agree to Nike's <span className="underline">Privacy Policy</span> and <span className="underline">Terms of Use</span>.
+                By creating an account, you agree to Nikes <span className="underline">Privacy Policy</span> and <span className="underline">Terms of Use</span>.
                 </p>
             </div>
         {/* Sign In Button */}

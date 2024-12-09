@@ -2,7 +2,6 @@ import Image from 'next/image';
 import Link from 'next/link';
 import nikelogo from '../app/asset/nikelogo.png';
 import Frame from '../app/asset/Frame.png'
-import center from '@/app/asset/center.png'
 import { MagnifyingGlassIcon, HeartIcon, ShoppingBagIcon } from "@heroicons/react/24/outline";
 
 

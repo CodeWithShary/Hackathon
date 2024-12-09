@@ -34,12 +34,12 @@ export default function HelpPage() {
           <ul className="list-disc ml-6 my-4">
             <li>Visa, Mastercard, Diners Club, Discover, American Express, Visa Electron, Maestro</li>
             <li>
-              If you enter your PAN information at checkout, you'll be able to pay for your order with PayTM or a local credit or debit card.
+              If you enter your PAN information at checkout, youll be able to pay for your order with PayTM or a local credit or debit card.
             </li>
             <li>Apple Pay</li>
           </ul>
           <p className="mb-6">
-            Nike Members can store multiple debit or credit cards in their profile for faster checkout. If you're not already a Member,{" "}
+            Nike Members can store multiple debit or credit cards in their profile for faster checkout. If youre not already a Member,{" "}
             <Link href="/join-us" className="underline text-blue-600 hover:text-blue-800">
               join us today.
             </Link>
@@ -75,7 +75,7 @@ export default function HelpPage() {
               <strong>Can I pay for my order with multiple methods?</strong>
             </p>
             <p className="text-gray-700 mb-4">
-              No, payment for Nike orders can't be split between multiple payment methods.
+              No, payment for Nike orders cant be split between multiple payment methods.
             </p>
 
             <p className="mb-2">
@@ -86,11 +86,11 @@ export default function HelpPage() {
             </p>
 
             <p className="mb-2">
-              <strong>Why don't I see Apple Pay as an option?</strong>
+              <strong>Why dont I see Apple Pay as an option?</strong>
             </p>
             <p className="text-gray-700 mb-4">
-              To see Apple Pay as an option in the Nike App or on Nike.com, you'll need to use a compatible Apple device running the latest OS, be signed in
-              to your iCloud account and have a supported card in your Wallet. Additionally, you'll need to use Safari to use Apple Pay on Nike.com.
+              To see Apple Pay as an option in the Nike App or on Nike.com, youll need to use a compatible Apple device running the latest OS, be signed in
+              to your iCloud account and have a supported card in your Wallet. Additionally, youll need to use Safari to use Apple Pay on Nike.com.
             </p>
           </div>
 
@@ -117,7 +117,7 @@ export default function HelpPage() {
             <ul className="list-disc pl-5 text-gray-700">
               <li>
                 <Link href="/delivery-options" className="hover:underline">
-                  WHAT ARE NIKE'S DELIVERY OPTIONS?
+                  WHAT ARE NIKES DELIVERY OPTIONS?
                 </Link>
               </li>
               <li>
@@ -157,7 +157,7 @@ export default function HelpPage() {
             <div className="flex flex-col items-center gap-2 mb-6">
               <IoIosMailUnread className="w-12 h-12 md:w-16 md:h-16" />
               <p>
-                We'll reply within <br />
+                Well reply within <br />
                 five business days
               </p>
             </div>

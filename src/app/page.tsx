@@ -1,4 +1,3 @@
-import Image from "next/image";
 import HeroSection from "./Home_page/hero-section";
 import GearUp from "./Home_page/gearup-section";
 import Featured from "./Home_page/featured-section";
